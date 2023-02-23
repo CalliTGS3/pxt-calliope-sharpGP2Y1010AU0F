@@ -31,7 +31,7 @@ namespace sharpGP2Y1010AU0F {
     let VO = 0; // analog in PIN
     let REFERENCE_VOLTAGE = ReferenceVoltage.REFERENCE_VOLTAGE_INT;
 
-    //% blockId="initDustSensor" block="Initialisiere Sensor mit DigitalPin %vled | AnlogPin %vo | Anzahl Messungen %samples | Referenzspannung %reference"
+    //% blockId="initDustSensor" block="Initialisiere Sensor mit ILED %vled | AOUT %vo | Anzahl Messungen %samples | Referenzspannung %reference"
     //% vled.defl=DigitalPin.P0
     //% vo.defl=AnalogPin.P2
     //% samples.defl=10    
